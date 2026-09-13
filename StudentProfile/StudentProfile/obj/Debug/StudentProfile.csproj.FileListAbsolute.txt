@@ -1,0 +1,10 @@
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\bin\Debug\StudentProfile.exe.config
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\bin\Debug\StudentProfile.exe
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\bin\Debug\StudentProfile.pdb
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\obj\Debug\StudentProfile.csproj.AssemblyReference.cache
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\obj\Debug\StudentProfile.Form1.resources
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\obj\Debug\StudentProfile.Properties.Resources.resources
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\obj\Debug\StudentProfile.csproj.GenerateResource.cache
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\obj\Debug\StudentProfile.csproj.CoreCompileInputs.cache
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\obj\Debug\StudentProfile.exe
+C:\Users\perth\OneDrive - STI College Balayan\Desktop\GITHUB 3rd year\StudentProfile\StudentProfile\obj\Debug\StudentProfile.pdb
